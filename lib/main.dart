@@ -1,5 +1,6 @@
-import 'package:ayurvedaui/ui/heritage_ui.dart';
 import 'package:flutter/material.dart';
+
+import 'ui/heritage_ui.dart';
 
 void main() {
   runApp(MyApp());
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.brown,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: AyurvedaUI(title: 'Kerala Heritage'),
+      home: HeritageUI(title: 'Kerala Heritage'),
     );
   }
 }

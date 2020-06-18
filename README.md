@@ -1,17 +1,28 @@
 # Kerala Heritage App
 
-Here is an example of making a Provincial Heritage App using Flutter.
+Here is an example of making a Provincial Heritage App using Flutter. Let's spread our culture and tradition.
+
+
 ![Image of Yaktocat](images/heritage.jpg)
 
-## Getting Started
+## Let's Get Started
 
-This project is a starting point for a Flutter application.
+* It's better to clone or download the project.
+* Always before writing codes make sure that all the assets (images, fonts, etc) are added in the project directory.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Skip this step if you have cloned or downloaded this project from github:
 
-For help getting started with Flutter, view our
+1. Create a fonts directory and add required fonts from [Google Fonts](https://fonts.google.com/).
+2. Create a images directory and paste required images.
+
+3. Now edit the pubspec.yaml (images are added under assets section and fonts are added under fonts section ). 
+4. Now run Get Packages to successfully commit your changes.
+
+5. Create a 'helper' directory inside 'lib' directory and add model class (structure class) and models class ( list of models with custom get method).
+6. Now create  a 'ui' directory inside 'lib' directory and add your custom UI. For better look add Ui widget of this project.
+7. Now set your home of Material App as UI widget.
+
+For more about Flutter, view 
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.

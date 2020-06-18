@@ -5,16 +5,16 @@ import 'package:flutter_rating_bar/flutter_rating_bar.dart';
 import '../helpers/model.dart';
 import '../helpers/models.dart';
 
-class AyurvedaUI extends StatefulWidget {
-  AyurvedaUI({Key key, this.title}) : super(key: key);
+class HeritageUI extends StatefulWidget {
+  HeritageUI({Key key, this.title}) : super(key: key);
 
   final String title;
 
   @override
-  _AyurvedaUIState createState() => _AyurvedaUIState();
+  _HeritageUIState createState() => _HeritageUIState();
 }
 
-class _AyurvedaUIState extends State<AyurvedaUI> {
+class _HeritageUIState extends State<HeritageUI> {
   TextEditingController textCtrl = TextEditingController();
   List<Model> models = [];
 
