@@ -1,6 +1,6 @@
-# heritage
+# Kerala Heritage App
 
-A new Flutter application.
+Here is an example of making a Provincial Heritage App using Flutter.
 
 ## Getting Started
 
