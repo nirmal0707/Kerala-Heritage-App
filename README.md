@@ -23,6 +23,8 @@ Skip this step if you have cloned or downloaded this project from github:
 6. Now create  a 'ui' directory inside 'lib' directory and add your custom UI. For better look add Ui widget of this project.
 7. Now set your home of Material App as UI widget.
 
+![Image of Yaktocat](https://drive.google.com/file/d/1YWzuMmJfE390yQdJX7qGkXPPoPxOT1hY/view?usp=sharing)
+
 For more about Flutter, view 
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
