@@ -27,7 +27,7 @@ Skip this step if you have cloned or downloaded this project from github:
 
 
 
-![Image of heritageApp_screenshot2](https://firebasestorage.googleapis.com/v0/b/web-content-storage.appspot.com/o/heritage-ui-screenshot.png?alt=media&token=b0f76b0b-7440-4fd6-a520-d6334bd62563)
+![Image of heritageApp_screenshot2](https://firebasestorage.googleapis.com/v0/b/web-content-storage.appspot.com/o/heritage-ui-screenshot2.png?alt=media&token=7343c3e2-1e31-47d8-af8e-9dd74e5c19cd)
 
 
 For more about Flutter, view 
