@@ -23,7 +23,7 @@ Skip this step if you have cloned or downloaded this project from github:
 6. Now create  a 'ui' directory inside 'lib' directory and add your custom UI. For better look add Ui widget of this project.
 7. Now set your home of Material App as UI widget.
 
-![Image of heritageApp_screenshot](https://drive.google.com/file/d/1YWzuMmJfE390yQdJX7qGkXPPoPxOT1hY/view?usp=sharing)
+![Image of heritageApp_screenshot](https://firebasestorage.googleapis.com/v0/b/web-content-storage.appspot.com/o/heritage-ui-screenshot.png?alt=media&token=b0f76b0b-7440-4fd6-a520-d6334bd62563)
 
 For more about Flutter, view 
 [online documentation](https://flutter.dev/docs), which offers tutorials,
